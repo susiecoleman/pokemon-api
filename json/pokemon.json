@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Scorbunny",
+    "type": "Fire"
+  },
+  {
+    "name": "Raboot",
+    "type": "Fire"
+  },
+  {
+    "name": "Cinderace",
+    "type": "Fire"
+  },
+  {
+    "name": "Grookey",
+    "type": "Grass"
+  },
+  {
+    "name": "Thwackey",
+    "type": "Grass"
+  },
+  {
+    "name": "Rillaboom",
+    "type": "Grass"
+  },
+  {
+    "name": "Sobble",
+    "type": "Water"
+  },
+  {
+    "name": "Drizzile",
+    "type": "Water"
+  },
+  {
+    "name": "Inteleon",
+    "type": "Water"
+  },
+  {
+    "name": "Skwovet",
+    "type": "Normal"
+  },
+  {
+    "name": "Greedent",
+    "type": "Normal"
+  },
+  {
+    "name": "Rookidee",
+    "type": "Flying"
+  },
+  {
+    "name": "Corvisquire",
+    "type": "Flying"
+  },
+  {
+    "name": "Corviknight",
+    "type": "Flying Steel"
+  },
+  {
+    "name": "Blipbug",
+    "type": "Bug"
+  }
+]
